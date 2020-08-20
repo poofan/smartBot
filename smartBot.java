@@ -32,12 +32,12 @@ public class smartBot extends TelegramLongPollingBot {
 
 	@Override
 	public String getBotUsername() {
-		return "@mnops_bot";
+		return "nops_bot";
 	}
 
 	@Override
 	public String getBotToken() {
-		return "1397069463:AAEuZqU4F6hAsEDddP6GEJUc0GWALuaI9uY";
+		return "1397069463:AAEuZqU4F6hAsEDddP6GEJ_c0GWALu_aI9uY";
 	}
 	
 	//функция для обработки сообщений
